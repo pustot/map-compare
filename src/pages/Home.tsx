@@ -19,7 +19,7 @@ const positions: CityPosition = {
     guangzhou: [23.1291, 113.2644],
     shenzhen: [22.5429, 114.0596],
     heze: [35.243, 115.4413],
-    kunming: [24.8801, 102.8329],
+    kunming: [25.0438, 102.7056], // Wuhua District
     edinburgh: [55.9533, -3.1883],
     seattle: [47.6062, -122.3321],
 };
